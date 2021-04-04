@@ -17,6 +17,7 @@ Inheritance (kalıtım) bir sınıftan başka bir sınıf türetirken aralarınd
 ## Abstraction
 Abstraction (soyutlama) OOP'UN temel kavramlarından biridir. Alt sınıfların ortak özelliklerini ve işlevlerini taşıyan ancak henüz bir nesnesi olmayan bir üst sınıf oluşturmak istenirse bir soyut (abstract) üst sınıf oluşturulur. Soyut sınıfın yöntemleri alt sınıfları tarafından üzerine yazılmak üzere şablon olarak tanımlanabilir veya soyut metot olarak oluşturulabilir. Soyut metota sahip bir sınıf otomatik olarak kendisi de soyut hale gelir ve soyut sınıflardan nesne oluşturulmaz. 
 ## Interface
+Interface sözdizimi (syntax) olarak classlara benzemesine rağmen farklı bir yapıdır. Interface, bir classın sağlaması gereken yeteneklerin beyanıdır. İçerisinde yanlızca metodlar ve propertyler tanımlanır, field tanımlanamaz. Üyeleri herhangi bir access modifier’ a sahip değillerdir , implement edilen class tarafından bütün üyeler erişilebilir.
 
 ## Polymorphism
 Polymorphism (çok biçimlilik)OOP'DA programlama dilinin farklı tip verileri ve sınıfları farklı şekilde işleme yeteneğini belirten özelliğidir. Daha belirgin olmak gerekirse, metotları ve türetilmiş sınıfları yeniden tanımlama yeteneğidir.
