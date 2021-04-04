@@ -5,7 +5,7 @@ Nesne Yönelimli Programlama (OOP) mantıksal işlemlerden ziyade, nesnelere (ob
 • Polymorphism
 • Abstraction’dır.
 
-## Class
+## [Class](https://github.com/Hilal-aslanboga/OOP/tree/master/Class)
 OOP'da her bir object belirli bir sınıfın veya alt sınıfın metotlarını veya prosedürlerini ve veri değişkenlerini barındıran birer örneğidir.
 Sınıf belli tür bir nesnenin metotlarının ve değişkenlerinin şablon tanımıdır. Yani bir nesne bir sınıfın özel bir örneğidir ve değişkenlerden ziyade gerçek değişkenler barındırır. 
 ## Static Class
