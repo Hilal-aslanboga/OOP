@@ -1,13 +1,13 @@
-#Object Oriented Programming
+# Object Oriented Programming
 
-##Class
+## Class
 
-##Static Class
+## Static Class
 
-##Encapsulation
+## Encapsulation
 
-##Inheritance
+## Inheritance
 
-##Abstraction
+## Abstraction
 
-##Interface
+## Interface
